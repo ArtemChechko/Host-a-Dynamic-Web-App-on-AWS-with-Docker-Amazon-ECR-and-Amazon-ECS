@@ -91,7 +91,7 @@ This project outlines the steps to host a dynamic web application on AWS using D
 
 29. **Create a Key Pair in AWS**: Generate a key pair in the AWS Management Console for SSH access.
 30. **Set Up a Bastion Host with EC2**: Launch an EC2 instance to act as a bastion host for secure database migration.
-31. **Install Flyway on Your Computer **: Download and install [Flyway](https://flywaydb.org/) on your computer.
+31. **Install Flyway on Your Computer**: Download and install [Flyway](https://flywaydb.org/) on your computer.
 32. **Update the Flyway Configuration File**: Configure Flyway with your MySQL RDS instance credentials.
 33. **Organize SQL Scripts in Flyway**: Place your SQL migration scripts in Flyway's SQL directory.
 34. **Securely Run Flyway Migrate with an SSH Tunnel**:
